@@ -9,3 +9,13 @@ Para executar o benchmark, é necessário executar o projeto em modo **"Release"**
 
 ![Error message running in Release mode](./docs/images/ErrorMessageRunningInReleaseMode.png)
 
+## Resultados
+
+### Projeto SimpleBenchmarks
+
+#### FirstBenchmark
+
+Resultado dos primeiros testes criados em **FirstBenchmark**, para análise do uso do método `EndsWith()` utilizando `string` e `char`.
+
+![First Benchmark - EndsWith Method](./docs/images/FirstBenchmark_EndsWithMethod.png)
+
