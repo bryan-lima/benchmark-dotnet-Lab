@@ -1,11 +1,11 @@
-# Benchmark .NET Lab
+Ôªø# Benchmark .NET Lab
 
-RepositÛrio de testes e estudos da _lib_ **[BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)**.
+Reposit√≥rio de testes e estudos da _lib_ **[BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)**.
 
 
-## OrientaÁıes
+## Orienta√ß√µes
 
-Para executar o benchmark, È necess·rio executar o projeto em modo **"Release"**, pois a _lib_ n„o funciona em modo **"Debug"**.
+Para executar o benchmark, √© necess√°rio executar o projeto em modo **"Release"**, pois a _lib_ n√£o funciona em modo **"Debug"**.
 
 ![Error message running in Release mode](./docs/images/ErrorMessageRunningInReleaseMode.png)
 
@@ -15,7 +15,7 @@ Para executar o benchmark, È necess·rio executar o projeto em modo **"Release"**
 
 #### FirstBenchmark
 
-Resultado dos primeiros testes criados em **FirstBenchmark**, para an·lise do uso do mÈtodo `EndsWith()` utilizando `string` e `char`.
+Resultado dos primeiros testes criados em **FirstBenchmark**, para an√°lise do uso do m√©todo `EndsWith()` utilizando `string` e `char`.
 
 ![First Benchmark - EndsWith Method](./docs/images/FirstBenchmark_EndsWithMethod.png)
 
