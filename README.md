@@ -25,6 +25,12 @@ Ao usar a CLI para executar o benchmark, é gerado um diretório chamado **"Benc
 
 ![BenchmarkDotNet.Artifacts results directory](./docs/images/BenchmarkDotNet.Artifacts_Directory_Results.png)
 
+### Execução via Visual Studio
+
+Para executar o projeto via Visual Studio, primeiro selecione o modo **"Release"**, após selecione o projeto de benchmark como **projeto de inicialização** e na sequência, clique no botão **"Start"** (ícone _play_ na cor verde).
+
+![Execution via Visual Studio 2022](./docs/images/Execution_VisualStudio2022.png)
+
 
 ## Resultados
 
