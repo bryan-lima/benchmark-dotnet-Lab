@@ -1,6 +1,6 @@
 ﻿using BenchmarkDotNet.Attributes;
 
-namespace SimpleBenchmarks
+namespace SimpleBenchmarks.Benchmarks
 {
     public class FirstBenchmark
     {
