@@ -4,6 +4,6 @@ using SimpleBenchmarks;
 
 Console.WriteLine("\n\nStarting benchmarks...");
 
-Summary _summary = BenchmarkRunner.Run<FirstBenchmark>();
+BenchmarkRunner.Run<FirstBenchmark>();
 
 Console.WriteLine("\n\nBenchmarks completed!");
